@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 <h1 align="center">Hi 👋, I'm Rohit Gundeti</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
+<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitgundet&label=Profile%20views&color=0e75b6&style=flat" alt="rohitgundeti" /> </p>
 
